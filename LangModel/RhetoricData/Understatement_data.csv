@@ -1,0 +1,502 @@
+,sentence,rhetoric
+"I'm a little worried about the test tomorrow."" (In reality, the speaker is extremely anxious and stressed about the test.)",Understatement,Understatement
+"I just have a few minor concerns about the project."" (The concerns may actually be major and could significantly affect the success of the project.)",Understatement,Understatement
+"Oh, it's just the biggest decision of my life."" (The decision is actually life-changing and will have a huge impact on the speaker's future.)",Understatement,Understatement
+"She's not the most reliable person."" (In reality, the person is consistently untrustworthy and unreliable.)",Understatement,Understatement
+"I've been a bit under the weather."" (The speaker is actually very sick and unable to leave their bed.)",Understatement,Understatement
+"The movie was alright, I guess."" (The speaker actually hated the movie but doesn't want to offend anyone who enjoyed it.)",Understatement,Understatement
+"I had a small role in the play."" (The speaker was actually the lead and received rave reviews.)",Understatement,Understatement
+"He's not the brightest bulb in the box."" (The person is actually quite unintelligent and frequently makes poor decisions.)",Understatement,Understatement
+"I did alright on the exam."" (The speaker actually received the highest score in the class.)",Understatement,Understatement
+"It's just a scratch."" (The injury is actually quite serious and requires medical attention.)",Understatement,Understatement
+"It's just a little scratch, I'll be fine."" - Downplaying a large wound",Understatement,Understatement
+"I only spent a small fortune on those shoes."" - Mocking the excessive cost of a purchase",Understatement,Understatement
+"I'm just a little tired, it's been a long day."" - Concealing extreme exhaustion",Understatement,Understatement
+"I nearly died laughing at that joke."" - Exaggerating the humor of a joke",Understatement,Understatement
+"I guess I'm just a little frazzled, I have four different meetings today."" - Understating a busy schedule",Understatement,Understatement
+"I think I might have slightly overreacted."" - Admitting to a dramatic response",Understatement,Understatement
+"It's just a small issue, nothing to worry about."" - Downplaying a major problem",Understatement,Understatement
+"I only wrote a few lines of code, it was a simple task."" - Dismissing a complex programming task",Understatement,Understatement
+"I might have slightly underestimated the competition."" - Conceding to a tough opponent",Understatement,Understatement
+"I only walked a few miles, it wasn't that far."" - Minimizing a long distance traveled.",Understatement,Understatement
+"I'm feeling a little bit tired."" (After running a marathon)",Understatement,Understatement
+"The weather is a bit chilly today."" (During a snowstorm)",Understatement,Understatement
+"I'll just have a small slice of cake."" (After ordering a large piece)",Understatement,Understatement
+"I got a few bruises from that fall."" (After falling off a cliff)",Understatement,Understatement
+"I may have to wait a while for my food."" (After being told the restaurant is fully booked for the next two hours)",Understatement,Understatement
+"I didn't do too bad on the exam."" (After scoring 90%)",Understatement,Understatement
+"It's just a small scratch on the car."" (After a major accident)",Understatement,Understatement
+"I have a bit of a headache."" (After getting hit in the head with a baseball)",Understatement,Understatement
+"I only have a million things to do today."" (After being given a long list of tasks)",Understatement,Understatement
+"It's just a little dent in the wall."" (After accidentally punching a hole through it)",Understatement,Understatement
+"I didn't do too bad on the test, I only missed a few questions.",Understatement,Understatement
+"The new restaurant is not that bad, I only had to wait an hour for my food.",Understatement,Understatement
+"My neighbor's party was a bit loud, it sounded like there were only a million people there.",Understatement,Understatement
+"It's just a little cut, I'll be fine.",Understatement,Understatement
+"The hike wasn't too difficult, we only had to climb a couple of mountains.",Understatement,Understatement
+"I didn't win the race, but at least I didn't come in last.",Understatement,Understatement
+"The weather is a little chilly, it's only 20 degrees below freezing.",Understatement,Understatement
+"The movie wasn't the best, I only fell asleep twice.",Understatement,Understatement
+"I barely even noticed the earthquake, it was just a small tremor.",Understatement,Understatement
+"I'm not the greatest cook, but my burnt casserole wasn't too terrible.",Understatement,Understatement
+"I had a bit of a setback, I lost my arm in a freak accident.",Understatement,Understatement
+"Just a scratch,"" the knight said, as his arm was severed by the dragon's fiery breath.",Understatement,Understatement
+"I could've used an umbrella,"" she said, drenched from head to toe in the pouring rain.",Understatement,Understatement
+"The meeting was slightly unproductive,"" the CEO announced, after the company lost millions in sales.",Understatement,Understatement
+"I didn't do too well on the exam,"" she remarked, despite receiving the highest grade in the class.",Understatement,Understatement
+"I'm feeling a little under the weather,"" he stated, as he struggled to breathe with a severe cold.",Understatement,Understatement
+"I could use some help with this project,"" she said, while juggling multiple tasks and deadlines.",Understatement,Understatement
+"I'm no world-renowned chef, but this dish turned out decent,"" he claimed, after receiving rave reviews for his cooking.",Understatement,Understatement
+"I may have overreacted a bit,"" she admitted, after throwing a vase across the room in anger.",Understatement,Understatement
+"Our team didn't have the greatest game,"" the coach said, after his team won the championship by a landslide.",Understatement,Understatement
+"I have a bit of a headache"" - Said by someone who is actually suffering from a severe migraine.",Understatement,Understatement
+"It's just a tiny scratch"" - Said by someone who has a deep gash on their arm and needs stitches.",Understatement,Understatement
+"I didn't do great on the test, but it wasn't terrible"" - Said by a student who actually failed the test.",Understatement,Understatement
+"We might have to cut back on a few expenses"" - Said by a family who is struggling to make ends meet and facing financial hardship.",Understatement,Understatement
+"I've had better days"" - Said by someone who lost their job, their car broke down, and their pet passed away all in the same day.",Understatement,Understatement
+"I suppose I wasn't the best driver today"" - Said by someone who got into a major car accident.",Understatement,Understatement
+"Looks like it might rain a little bit"" - Said by someone observing a massive thunderstorm with heavy rainfall.",Understatement,Understatement
+"I just have a few minor concerns"" - Said by a teacher about a student who is failing every class.",Understatement,Understatement
+"I may have underestimated the amount of work this project would require"" - Said by a team leader who is struggling to complete a massive project by the deadline.",Understatement,Understatement
+"It's not my best work, but it's not the worst either"" - Said by an artist about their piece that they secretly hate.",Understatement,Understatement
+"I have to say, I didn't really enjoy skydiving. It was just a little bit scary.",Understatement,Understatement
+The weather outside could be described as less than ideal.,Understatement,Understatement
+I guess I'm not a terrible cook. I only set off a few smoke alarms.,Understatement,Understatement
+"I ran a marathon last weekend, but it was no big deal.",Understatement,Understatement
+I have a slight interest in politics.,Understatement,Understatement
+"Compared to the other candidates, I suppose I did okay in the debate.",Understatement,Understatement
+My vacation in Hawaii was slightly nicer than staying at home.,Understatement,Understatement
+Losing my job was a minor inconvenience.,Understatement,Understatement
+I only wrote a few best-selling novels.,Understatement,Understatement
+"That test was a little tricky, but I managed to get a passing grade.",Understatement,Understatement
+"I'm feeling a bit unwell"" - describing a terrible illness",Understatement,Understatement
+"She's not exactly the most patient person"" - describing someone with a short temper",Understatement,Understatement
+"It's just a little setback"" - referring to a major failure",Understatement,Understatement
+"The party was okay"" - describing a wild and exciting event",Understatement,Understatement
+"I'm not the best at this game"" - said by the reigning champion",Understatement,Understatement
+"I don't dislike him"" - describing intense dislike or hatred",Understatement,Understatement
+"It's just a small scratch"" - referring to a deep and noticeable wound",Understatement,Understatement
+"He's not exactly a genius"" - describing an exceptionally intelligent person",Understatement,Understatement
+"The test was a little challenging"" - referring to a difficult and grueling exam",Understatement,Understatement
+"He's not bad at playing the guitar"" - describing a virtuoso musician",Understatement,Understatement
+"I just have a few things on my plate right now, like starting a business, homeschooling my kids, and renovating our house.",Understatement,Understatement
+"It's a bit chilly out today, only -20 degrees.",Understatement,Understatement
+"This hike is just a little steep, no need to worry.",Understatement,Understatement
+"I may have hit a small snag in my plan, my bank account is completely drained.",Understatement,Understatement
+"Running a marathon is just a little challenging, but I think I can handle it.",Understatement,Understatement
+I was a little surprised when I won the lottery last night.,Understatement,Understatement
+"The math test was a bit difficult, I only got a 98%.",Understatement,Understatement
+"I'll just grab a quick snack, like a three-course meal or something.",Understatement,Understatement
+"The traffic was a bit heavy this morning, it only took me two hours to get to work.",Understatement,Understatement
+"I think I might have slightly overpaid for this car, it was only $100,000.",Understatement,Understatement
+The incident was just a minor setback.,Understatement,Understatement
+The building shook a little during the earthquake.,Understatement,Understatement
+I've had better days.,Understatement,Understatement
+The exam was not exactly a walk in the park.,Understatement,Understatement
+"Sorry, I may have overreacted a bit.",Understatement,Understatement
+We have a slight disagreement on the issue.,Understatement,Understatement
+"The movie was okay, I guess.",Understatement,Understatement
+The food was not terrible.,Understatement,Understatement
+I may have underestimated the challenge.,Understatement,Understatement
+I slightly disapprove of his choices.,Understatement,Understatement
+"I am feeling a little under the weather today"" (When actually feeling very sick)",Understatement,Understatement
+"I just ran a quick 5K this morning"" (When actually ran a marathon)",Understatement,Understatement
+"I only have a million things to do today"" (When actually overwhelmed with tasks)",Understatement,Understatement
+"I'm a bit disappointed"" (When actually devastated)",Understatement,Understatement
+"That wasn't too bad of a performance"" (When actually a standout performance)",Understatement,Understatement
+"I kind of like this new song"" (When actually obsessed with the song)",Understatement,Understatement
+"I'm sure a little extra studying won't hurt"" (When actually in need of a lot of studying)",Understatement,Understatement
+"I only have a few dollars in my bank account"" (When actually broke)",Understatement,Understatement
+"I can manage to carry that heavy box"" (When actually struggling to lift the box)",Understatement,Understatement
+"I may have overreacted just a bit"" (When actually had a strong reaction)",Understatement,Understatement
+"I'm a little tired"" - the understatement of the exhausted athlete after finishing a marathon",Understatement,Understatement
+"It's just a scratch"" - the understatement of a wounded soldier on the battlefield",Understatement,Understatement
+"I have a few errands to run"" - the understatement of a busy parent's to-do list",Understatement,Understatement
+"I'm not a huge fan"" - the understatement of someone who strongly dislikes something",Understatement,Understatement
+"I could use a cup of coffee"" - the understatement of a person who hasn't slept in 24 hours",Understatement,Understatement
+"It's a bit chilly"" - the understatement of freezing temperatures in the middle of a blizzard",Understatement,Understatement
+"It wasn't my best performance"" - the understatement of a musician who completely messed up a live show",Understatement,Understatement
+"I may have overslept a little"" - the understatement of being late for an important meeting",Understatement,Understatement
+"I had a minor inconvenience"" - the understatement of a person whose flight was cancelled and had to spend the night in the airport",Understatement,Understatement
+"I'm feeling a bit under the weather"" - the understatement of being sick with a high fever and body aches.",Understatement,Understatement
+"Oh, it's just a small scratch,"" said the driver after completely totaling their car.",Understatement,Understatement
+"I'm just a little winded,"" said the marathon runner after completing a grueling 26-mile race.",Understatement,Understatement
+"I'm not feeling so well,"" said the person who had just been diagnosed with a serious illness.",Understatement,Understatement
+"I would say the party was mildly successful,"" said the host after throwing a party that was talked about for weeks.",Understatement,Understatement
+"I may have slightly overspent on my shopping spree,"" said the person who had maxed out their credit card.",Understatement,Understatement
+"It was just a bit nippy outside today,"" said the person who had just survived a blizzard.",Understatement,Understatement
+"I think I may have slightly irritated the boss,"" said the employee who had just been fired.",Understatement,Understatement
+"I slightly underestimated the distance of the hike,"" said the hiker who ended up getting lost.",Understatement,Understatement
+"I experienced some minor discomfort during the procedure,"" said the patient who had just undergone major surgery.",Understatement,Understatement
+"The pizza was just a tad bit greasy,"" said the person who had just devoured an entire pizza by themselves.",Understatement,Understatement
+"1. ""I might have a slight interest in that topic.",Understatement,Understatement
+"2. ""I just have a bit of experience in this field.",Understatement,Understatement
+"3. ""That's quite a nice painting you have there.",Understatement,Understatement
+"4. ""The weather isn't too bad today.",Understatement,Understatement
+"5. ""I may have a small problem.",Understatement,Understatement
+"6. ""I wouldn't say I'm the best cook, but I've burnt a few things in my day.",Understatement,Understatement
+"7. ""I have a few things on my to-do list.",Understatement,Understatement
+"8. ""It's just a minor inconvenience, really.",Understatement,Understatement
+"9. ""That test wasn't as easy as I thought it would be.",Understatement,Understatement
+"I'm not exactly a great dancer, but I can manage.",Understatement,Understatement
+"The weather forecast predicted a light shower, but we ended up getting drenched in a downpour.",Understatement,Understatement
+"I have a bit of a headache"" she said, as she clutched her head in agony.",Understatement,Understatement
+"The appetizer portions at the restaurant were a little small, it felt like I was eating a snack instead of a meal.",Understatement,Understatement
+I'm a little disappointed that we only won the championship by a 50 point margin.,Understatement,Understatement
+"The accident was nothing serious, just a few bumps and bruises,"" said the driver, as the ambulance rushed them to the hospital.",Understatement,Understatement
+"Despite their claims of being a luxury hotel, the rooms were just a tad bit shabby and outdated.",Understatement,Understatement
+"The movie was alright, but I wouldn't say it was the best film I've ever seen.",Understatement,Understatement
+"After running a marathon, my friend casually mentioned that they may have twisted their ankle a bit.",Understatement,Understatement
+"The new phone is not bad, I mean it only drops calls occasionally and freezes a few times a day.",Understatement,Understatement
+"The exam was a piece of cake, I finished it in half the time and only missed a few questions.",Understatement,Understatement
+The football game didn't go as well as we had hoped. (After losing by a landslide),Understatement,Understatement
+I think I may have slightly overcooked the turkey. (After burning it to a crisp),Understatement,Understatement
+It's a bit chilly outside. (During a blizzard),Understatement,Understatement
+The hike was a little more challenging than I anticipated. (After climbing Mount Everest),Understatement,Understatement
+I may have made a small mistake on the test. (After getting a failing grade),Understatement,Understatement
+She didn't exactly have a great time at the party. (After getting into a physical fight),Understatement,Understatement
+"The movie was okay, but not my favorite. (After walking out of the worst movie ever)",Understatement,Understatement
+I didn't do too bad during the marathon. (After coming in last place),Understatement,Understatement
+He's not the smartest person in the world. (After winning a Nobel Prize),Understatement,Understatement
+The storm caused some minor damage to the house. (After completely destroying it),Understatement,Understatement
+"I didn't do terrible on the exam, I only missed a few questions.",Understatement,Understatement
+That rollercoaster ride was nothing short of exhilarating.,Understatement,Understatement
+The party was a small gathering with just a few hundred people.,Understatement,Understatement
+"I barely even felt the earthquake, it was just a tiny tremor.",Understatement,Understatement
+"His injury wasn't too bad, just a slight fracture in his arm.",Understatement,Understatement
+"I'm not the best cook, but the food turned out edible.",Understatement,Understatement
+"Her reaction was a bit exaggerated, to say the least.",Understatement,Understatement
+"The painting was nice, but it's nothing compared to a Van Gogh.",Understatement,Understatement
+"I was slightly disappointed with the turnout, only a dozen people showed up.",Understatement,Understatement
+"The movie was okay, it just lacked a little bit of excitement.",Understatement,Understatement
+"I'm just a little bit tired."" (Using understatement to downplay exhaustion)",Understatement,Understatement
+"His talents are nothing to scoff at."" (Using understatement to praise someone's abilities)",Understatement,Understatement
+"It's just a minor inconvenience."" (Using understatement to minimize a problem)",Understatement,Understatement
+"I'm not the biggest fan of that movie."" (Using understatement to express dislike)",Understatement,Understatement
+"I'm just a tad bit busy right now."" (Using understatement to convey being extremely busy)",Understatement,Understatement
+"She's not the most graceful dancer."" (Using understatement to indirectly criticize someone's dancing abilities)",Understatement,Understatement
+"That's just a little more than I can handle."" (Using understatement to express being overwhelmed)",Understatement,Understatement
+"I may be slightly biased, but I think my team is pretty good."" (Using understatement to show strong support)",Understatement,Understatement
+"I didn't do too well on the exam."" (Using understatement to hide that the exam was failed)",Understatement,Understatement
+"He's just one of the smartest people I've ever met."" (Using understatement to compliment someone's intelligence)",Understatement,Understatement
+"I'm not great with heights, but I managed to climb Mount Everest last weekend.",Understatement,Understatement
+That is quite a large spider. I think I'll just go ahead and leave the house.,Understatement,Understatement
+"My grandmother makes a pretty decent chocolate cake, if you like desserts that are just okay.",Understatement,Understatement
+"I didn't do too bad on my exam, I only missed a few questions.",Understatement,Understatement
+"I might be a little bit tired, I did just run a marathon this morning.",Understatement,Understatement
+"I'm not the biggest fan of needles, but I survived my flu shot.",Understatement,Understatement
+"I didn't really enjoy that movie, it was just a little boring.",Understatement,Understatement
+"The ocean isn't too cold today, you might be able to dip your toes in if you're feeling brave.",Understatement,Understatement
+"I didn't do too shabby at the poker game, I only lost a small fortune.",Understatement,Understatement
+"I'm not the best dancer, but I managed to avoid tripping over my own feet for most of the night.",Understatement,Understatement
+"It's just a little rain."" (Said during a massive thunderstorm)",Understatement,Understatement
+"I could eat an elephant right now."" (Feeling extremely hungry)",Understatement,Understatement
+"I think I might have sprained my ankle."" (After breaking it)",Understatement,Understatement
+"He's not a bad player."" (Referring to a professional athlete)",Understatement,Understatement
+"I'll be a little late."" (Arriving an hour after the agreed upon time)",Understatement,Understatement
+"It's just a small scratch."" (Covering a large dent on a car)",Understatement,Understatement
+"I feel a bit cold."" (In below freezing temperatures)",Understatement,Understatement
+"It's not my best work."" (In reference to a masterpiece)",Understatement,Understatement
+"She's not the sharpest tool in the shed."" (Referring to a genius)",Understatement,Understatement
+"The weather is slightly chilly."" (During a blizzard)",Understatement,Understatement
+"It's just a tiny scratch, I'll be fine.",Understatement,Understatement
+I think I may have a slight problem with procrastination.,Understatement,Understatement
+Looks like it might rain a bit today.,Understatement,Understatement
+"The concert was okay, I guess.",Understatement,Understatement
+"I've been waiting for this moment my whole life, no big deal.",Understatement,Understatement
+"Don't worry, it's just a minor inconvenience.",Understatement,Understatement
+That was a little bit of a rocky flight.,Understatement,Understatement
+"I'm a bit behind on my work, only by a few years.",Understatement,Understatement
+I think I may have underestimated the amount of time this project would take.,Understatement,Understatement
+"The food was alright, nothing special.",Understatement,Understatement
+That was quite a storm. We barely got any rain.,Understatement,Understatement
+I am a little concerned about the meeting today.,Understatement,Understatement
+I have a bit of a headache.,Understatement,Understatement
+"The play was alright, I guess.",Understatement,Understatement
+The traffic wasn't too bad on the way home.,Understatement,Understatement
+My exam didn't go as well as I would have liked.,Understatement,Understatement
+"I'm not the biggest fan of that artist, if I'm being honest.",Understatement,Understatement
+I wouldn't say she's the most qualified candidate.,Understatement,Understatement
+"The restaurant was decent, but nothing to write home about.",Understatement,Understatement
+I'm not sure if I completely agree with your assessment.,Understatement,Understatement
+I think I might have a slight dislike for that person.,Understatement,Understatement
+"It's just a little bit chilly outside, I guess.",Understatement,Understatement
+I'm not sure that winning the lottery is a huge deal.,Understatement,Understatement
+This project may take a bit longer than expected.,Understatement,Understatement
+"I didn't love the movie, but it wasn't terrible.",Understatement,Understatement
+I may have underestimated the complexity of this task.,Understatement,Understatement
+The restaurant we went to was not bad.,Understatement,Understatement
+"I don't want to brag, but I did okay on the test.",Understatement,Understatement
+I don't think I'm the most talented musician in the world.,Understatement,Understatement
+I might have a small preference for chocolate over vanilla.,Understatement,Understatement
+"I wouldn't say it was a complete disaster, but the building did catch on fire.",Understatement,Understatement
+"Oh, I just chipped a little bit of the china, it's hardly noticeable.",Understatement,Understatement
+"The hike was a bit tough, but I only lost a few toenails.",Understatement,Understatement
+"I didn't have the best day at work, just got fired.",Understatement,Understatement
+"I'm feeling a little under the weather, I think I might have the plague.",Understatement,Understatement
+"Don't worry, the hurricane shouldn't do too much damage, just a few minor floods and power outages.",Understatement,Understatement
+"The exam was a bit challenging, but I only failed by a few points.",Understatement,Understatement
+"The party was ok, just a few hundred people showed up.",Understatement,Understatement
+"I might have overslept a bit, I only missed the entire first half of the game.",Understatement,Understatement
+"I didn't think it was that big of a deal, I only broke my leg.",Understatement,Understatement
+"I'm not the best at math."" (A student who consistently receives top marks in the subject)",Understatement,Understatement
+"I just have a few things to do before the presentation tomorrow."" (A presenter who has yet to start preparing)",Understatement,Understatement
+"I'll just take a quick nap before my exam."" (A student who plans on sleeping for several hours)",Understatement,Understatement
+"The new album is not too bad."" (A critic who gives a glowing review)",Understatement,Understatement
+"Just a slight bump on the road."" (A driver after a major car accident)",Understatement,Understatement
+"I'm not feeling my best today."" (Someone who is experiencing severe illness or injury)",Understatement,Understatement
+"I could use a little bit of help."" (A person who is overwhelmed and struggling)",Understatement,Understatement
+"I'm not the biggest fan of this book."" (A person who despises the book)",Understatement,Understatement
+"We had a bit of rain last night."" (A area experiencing a severe storm)",Understatement,Understatement
+"It's just a small dent."" (A car with significant damage)",Understatement,Understatement
+I was slightly annoyed when my team lost the championship game by one point.,Understatement,Understatement
+I guess getting stuck in traffic for two hours wasn't the ideal start to my morning.,Understatement,Understatement
+"I didn't do very well on the test, scoring only a 95%.",Understatement,Understatement
+I didn't realize I had a million unread emails until my computer crashed.,Understatement,Understatement
+"It's just a small scratch, nothing to worry about.",Understatement,Understatement
+I wasn't too thrilled about receiving a participation trophy at the end of the race.,Understatement,Understatement
+My boss wasn't too pleased when I showed up an hour late for work.,Understatement,Understatement
+I had a bit of a headache after only drinking six shots of tequila last night.,Understatement,Understatement
+I wasn't exactly blown away by the view from the top of the mountain.,Understatement,Understatement
+"I didn't expect much from the movie, but it was mildly entertaining.",Understatement,Understatement
+"I'm not too bad at chess, I may have won a few games here and there.",Understatement,Understatement
+The Grand Canyon is just a little crack in the earth.,Understatement,Understatement
+I was only the lead singer of a famous band for a few years.,Understatement,Understatement
+I am slightly disappointed that my team only came in second place at the competition.,Understatement,Understatement
+I probably only studied for the test for a couple of hours.,Understatement,Understatement
+I guess getting into an Ivy League school isn't the worst achievement.,Understatement,Understatement
+I may have just made a small mistake in my presentation that cost my company millions of dollars.,Understatement,Understatement
+"I didn't mean to bump into him, it was just a light tap.",Understatement,Understatement
+"I just have a bit of a headache, nothing I can't handle.",Understatement,Understatement
+"The painting is just a touch off center, but it adds character.",Understatement,Understatement
+"I'm feeling a little hungry."" (When actually starving)",Understatement,Understatement
+"It's just a scratch."" (When the wound is severe)",Understatement,Understatement
+"I might have overslept a little bit."" (When running very late)",Understatement,Understatement
+"I'm slightly disappointed."" (When extremely upset)",Understatement,Understatement
+"I suppose I could use a small break."" (When in desperate need of a vacation)",Understatement,Understatement
+"I didn't do too well on that test."" (When getting a failing grade)",Understatement,Understatement
+"It's just a short walk to the top of the mountain."" (When the climb is actually difficult and long)",Understatement,Understatement
+"I'll be a few minutes late."" (When actually running behind schedule)",Understatement,Understatement
+"The hurricane caused some minor damage."" (When it actually caused widespread destruction)",Understatement,Understatement
+"I'm not the best at cooking."" (When being known as a terrible cook)",Understatement,Understatement
+"It's just a little scratch."" - After being hit by a car and breaking his leg.",Understatement,Understatement
+"I won't be able to make it to the party, I have a small inconvenience called a wedding to attend."" - Referring to their own wedding as a small inconvenience.",Understatement,Understatement
+"I think we might have underestimated the impact of the hurricane."" - After a massive hurricane destroys an entire city.",Understatement,Understatement
+"I may have overreacted a bit."" - After physically fighting with someone over a minor disagreement.",Understatement,Understatement
+"I wouldn't say I'm the best at math, but I managed to solve the problem eventually."" - After acing a difficult math exam.",Understatement,Understatement
+"I had a bit of a mishap while skydiving, but managed to land safely."" - After narrowly avoiding a life-threatening situation.",Understatement,Understatement
+"I just need a small loan of a million dollars to get started."" - Joking about needing a large sum of money to start a business.",Understatement,Understatement
+"Don't worry, I only have a slight cold."" - After being diagnosed with the flu.",Understatement,Understatement
+"I had a bit of trouble with the recipe, but it turned out okay."" - After accidentally burning a meal to a crisp.",Understatement,Understatement
+"It's just a tiny incident, nothing to worry about."" - After a car accident that results in serious injuries.",Understatement,Understatement
+"I'm a little tired"" - used by someone who is completely exhausted",Understatement,Understatement
+"I could use a cup of tea"" - said during a major heat wave",Understatement,Understatement
+"It's just a scratch"" - said by someone with a huge gash on their arm",Understatement,Understatement
+"I think I need a break"" - after studying for 10 hours straight",Understatement,Understatement
+"I'm not very good at this"" - after completing a difficult task successfully",Understatement,Understatement
+"I think I'm going to faint"" - said by someone on a rollercoaster",Understatement,Understatement
+"I'll just have a small slice of cake"" - after eating a whole pizza",Understatement,Understatement
+"I've been waiting for hours"" - said by someone who has been waiting for days",Understatement,Understatement
+"This rain is a little annoying"" - during a severe thunderstorm",Understatement,Understatement
+"I could use a little help"" - said while carrying a heavy load alone.",Understatement,Understatement
+"I have a bit of a headache."" (said by someone with a migraine)",Understatement,Understatement
+"The project might take a little bit longer than expected."" (when the project is actually significantly behind schedule)",Understatement,Understatement
+"I got a few mosquito bites."" (after being attacked by a swarm of mosquitoes)",Understatement,Understatement
+"I didn't run the fastest, but I finished the marathon."" (after winning first place)",Understatement,Understatement
+"The test was a tad bit challenging."" (after failing the test)",Understatement,Understatement
+"I may have spilled a drop of coffee."" (after spilling an entire cup of coffee)",Understatement,Understatement
+"The storm caused some minor damage."" (after a hurricane destroys a town)",Understatement,Understatement
+"I think I might need a touch-up on my hair color."" (after completely dyeing one's hair)",Understatement,Understatement
+"I had a little bit of trouble understanding the complicated math problem."" (after spending hours trying to solve it)",Understatement,Understatement
+"I could use a little help moving this giant boulder."" (when the action actually requires a team of people)",Understatement,Understatement
+"My friend has a bit of a sweet tooth."" (Describing a friend who constantly eats dessert after every meal)",Understatement,Understatement
+"Looks like it might rain a little today."" (When the forecast is calling for a severe thunderstorm)",Understatement,Understatement
+"My dog is not the most well-trained creature."" (When the dog is constantly jumping on furniture and barking)",Understatement,Understatement
+"I didn't do as well on the test as I had hoped."" (Receiving a failing grade on a test)",Understatement,Understatement
+"The party was just okay."" (When the party was a complete disaster)",Understatement,Understatement
+"I may have a small headache."" (When suffering from a migraine)",Understatement,Understatement
+"I'm just a bit tired."" (After running a marathon)",Understatement,Understatement
+"They had a little disagreement."" (When two people had a huge argument)",Understatement,Understatement
+"It's just a minor injury."" (After breaking a bone)",Understatement,Understatement
+"I have a slight aversion to needles."" (When extremely afraid of needles)",Understatement,Understatement
+"Oh, I just won the lottery, no big deal.",Understatement,Understatement
+I think I might have a slight fever.,Understatement,Understatement
+I only have a million things to do before the deadline.,Understatement,Understatement
+I can't wait for the long and tedious meeting tomorrow.,Understatement,Understatement
+I might have gone a little overboard with the decorations for the party.,Understatement,Understatement
+I have a small mountain of laundry to do.,Understatement,Understatement
+"It's just a minor inconvenience, I'll be fine.",Understatement,Understatement
+I only have a few hundred unread emails in my inbox.,Understatement,Understatement
+"The exam was a breeze, I barely had to study.",Understatement,Understatement
+I'll just quickly whip up a three-course meal for dinner.,Understatement,Understatement
+"Oh, it's just a little bump on the road."" - Describing a major car accident.",Understatement,Understatement
+"I'll be fine, it's just a flesh wound."" - After being shot.",Understatement,Understatement
+"The meeting went okay, only a few people stormed out in anger."" - After a heated argument and walk-out.",Understatement,Understatement
+"It's not a big deal, I only lost my entire life savings."" - After a financial disaster.",Understatement,Understatement
+"This presentation is just a small glimpse into the groundbreaking research we've been doing."" - Before presenting groundbreaking research.",Understatement,Understatement
+"Don't worry, it's just a bit of rain."" - As a hurricane approaches.",Understatement,Understatement
+"I'll just be a minute, I'm only giving a speech in front of thousands of people."" - Before giving a keynote speech.",Understatement,Understatement
+"I was just a little surprised when I won the lottery."" - After winning millions of dollars.",Understatement,Understatement
+"No need to panic, it's just a tiny little fire."" - During a raging inferno.",Understatement,Understatement
+"It's just a small gathering, there's only a hundred people attending."" - Describing a large party.",Understatement,Understatement
+"It's just a little scratch"" - said while holding a bleeding wound.",Understatement,Understatement
+"I think I'll just take a short nap"" - before sleeping for hours.",Understatement,Understatement
+"I've been working here for a while"" - after being employed for 10 years.",Understatement,Understatement
+"The party was kind of fun"" - after a wild and memorable night.",Understatement,Understatement
+"It's a bit chilly"" - when the temperature is below freezing.",Understatement,Understatement
+"I might have slightly overspent"" - after maxing out multiple credit cards.",Understatement,Understatement
+"The concert was okay"" - after seeing a once-in-a-lifetime performance.",Understatement,Understatement
+"I'm only a little bit disappointed"" - after receiving a failing grade.",Understatement,Understatement
+"It's just a small leak"" - while standing in a flooded room.",Understatement,Understatement
+"They're not the friendliest people"" - after witnessing a heated argument.",Understatement,Understatement
+examples of the rhetorical use of understatement are:,Understatement,Understatement
+"I'm just a little bit tired."" - This is often used to downplay exhaustion or fatigue.",Understatement,Understatement
+"This project is not too challenging."" - This understatement is often used to describe something that is actually difficult or complex.",Understatement,Understatement
+"I wouldn't say I'm an expert, but I do know a thing or two about cooking."" - This understatement is often used to downplay one's knowledge or experience.",Understatement,Understatement
+"It's just a small cut."" - This statement can be used to downplay the severity of an injury.",Understatement,Understatement
+"The hurricane caused a bit of damage."" - This understatement can be used to describe a significant amount of destruction caused by a natural disaster.",Understatement,Understatement
+"I'm not the biggest fan of comedies."" - This understatement is often used to express dislike towards something.",Understatement,Understatement
+"She's not the most punctual person."" - This understatement can be used to describe someone who is consistently late.",Understatement,Understatement
+"I don't think he's the smartest person in the room."" - This understatement can be used to imply that someone is not very intelligent.",Understatement,Understatement
+"The concert was quite enjoyable."" - This understatement can be used to describe an amazing or unforgettable experience.",Understatement,Understatement
+"I'm not the best dancer, but I do enjoy it."" - This understatement is often used to downplay one's skills in a particular activity.",Understatement,Understatement
+"I may have simply made a small mistake."" (Downplaying a major error)",Understatement,Understatement
+"Her cooking skills are just satisfactory."" (Understating exceptional culinary abilities)",Understatement,Understatement
+"I can live with just a million dollars."" (Minimizing a large amount of money)",Understatement,Understatement
+"He's not the brightest bulb in the box."" (Reducing someone's intelligence)",Understatement,Understatement
+"The blizzard we experienced was just a little snowfall."" (Downplaying a severe weather event)",Understatement,Understatement
+"The test was a bit challenging."" (Understating the difficulty level)",Understatement,Understatement
+"I'll only be slightly disappointed if we don't win."" (Minimizing the desire to win)",Understatement,Understatement
+"I have a few things going on at the moment."" (Downplaying a busy schedule)",Understatement,Understatement
+"Don't worry, it's just a flesh wound."" (Understating a serious injury)",Understatement,Understatement
+"I think I can survive on just a few hours of sleep."" (Minimizing the need for rest)",Understatement,Understatement
+My roommate's girlfriend spends a lot of time at our apartment. (Hinting at the fact that she practically lives there),Understatement,Understatement
+This exam wasn't too bad. (The exam was extremely difficult),Understatement,Understatement
+It rained a little during my morning run. (It was pouring rain and I was completely drenched),Understatement,Understatement
+"I've had a bit of a rough day. (Everything that could go wrong, did go wrong)",Understatement,Understatement
+I'm just a little tired. (I'm completely exhausted),Understatement,Understatement
+I prefer mild weather. (I hate extreme temperatures),Understatement,Understatement
+The food was just okay. (The food was terrible),Understatement,Understatement
+I may have overslept a little. (I slept through my alarm and was an hour late),Understatement,Understatement
+I'm feeling a tad bit under the weather. (I'm miserably sick),Understatement,Understatement
+The concert was kind of loud. (The music was deafening),Understatement,Understatement
+"I think I might have a little bit of work to do before the exam."" (When the speaker actually has a lot of work to do)",Understatement,Understatement
+"The weather is a bit chilly today."" (When it's actually freezing)",Understatement,Understatement
+"I think I'm feeling a tad bit tired."" (When the person is completely exhausted)",Understatement,Understatement
+"This bag is a little heavy."" (When it's actually very heavy)",Understatement,Understatement
+"I had a slight mishap while driving."" (When the speaker actually got into a car accident)",Understatement,Understatement
+"I have a tiny headache."" (When they actually have a migraine)",Understatement,Understatement
+"I had a small disagreement with my boss."" (When it was actually a heated argument)",Understatement,Understatement
+"This project will only take a few minutes."" (When it will actually take hours)",Understatement,Understatement
+"I might have a few things to do today."" (When they have a long to-do list)",Understatement,Understatement
+"I had a little trouble understanding the instructions."" (When they were completely lost)",Understatement,Understatement
+"I'm just a little bit late."" (said by someone who arrived an hour after their scheduled meeting time)",Understatement,Understatement
+"I had a bit of trouble on the test."" (said by someone who failed the test)",Understatement,Understatement
+"It's a bit chilly outside."" (said on a freezing cold day)",Understatement,Understatement
+"This isn't the worst thing that could happen."" (said after a car accident)",Understatement,Understatement
+"I may have overreacted a tad."" (said after throwing a fit over a minor inconvenience)",Understatement,Understatement
+"I'm no expert, but I think you might be wrong."" (said by a Nobel prize-winning scientist)",Understatement,Understatement
+"The party was just okay."" (said after attending an extravagant and fun-filled event)",Understatement,Understatement
+"I didn't do too badly on my presentation."" (said by someone who received a standing ovation)",Understatement,Understatement
+"I've got a little bit of a headache."" (said by someone with a migraine)",Understatement,Understatement
+"We had a slight disagreement."" (said by someone who had a heated argument with their partner)",Understatement,Understatement
+"This house could use a little bit of work. (Referring to a dilapidated, falling-apart home)",Understatement,Understatement
+"I only broke my arm, it's not that big of a deal. (After a serious biking accident)",Understatement,Understatement
+"The project deadline? Oh, it's just a few weeks away. (When the deadline is only a few days away)",Understatement,Understatement
+I'm slightly disappointed. (After losing a competition),Understatement,Understatement
+That movie was slightly interesting. (After watching a boring film),Understatement,Understatement
+"Don't worry, this hike is just a little strenuous. (On a difficult mountain trail)",Understatement,Understatement
+"It's just a small scratch, it'll heal in no time. (After receiving a deep cut)",Understatement,Understatement
+My boss was just a tad bit angry with my performance. (After being heavily reprimanded),Understatement,Understatement
+This painting is just a tiny bit messy. (When there is paint splattered all over the canvas),Understatement,Understatement
+The weather is just a little chilly today. (When the temperature is below freezing),Understatement,Understatement
+"I got a couple of scratches from the lion encounter, but it was totally worth it.",Understatement,Understatement
+"The game last night wasn't too bad, we only lost by a few points.",Understatement,Understatement
+"The weather wasn't ideal for a picnic, but a little rain never hurt anyone.",Understatement,Understatement
+"I just climbed Mount Everest, no big deal.",Understatement,Understatement
+"My boss was slightly unhappy with my performance, to put it mildly.",Understatement,Understatement
+"I didn't get a perfect score on the test, but I got a passing grade.",Understatement,Understatement
+"I had a bit of trouble with the presentation, but it was nothing I couldn't handle.",Understatement,Understatement
+"The beach wasn't exactly pristine, but it was still a nice day.",Understatement,Understatement
+"I didn't exactly enjoy the 10-hour flight, but it wasn't the worst I've experienced.",Understatement,Understatement
+"The concert was alright, they played a few good songs.",Understatement,Understatement
+"I think I might have a mild cold"" - implying that the person is feeling much worse than they are letting on.",Understatement,Understatement
+"This assignment is not exactly easy"" - suggesting that the assignment is actually quite difficult.",Understatement,Understatement
+"The movie was not too bad"" - implying that the movie was actually good.",Understatement,Understatement
+"I didn't do too great on the exam"" - downplaying the person's success on the exam.",Understatement,Understatement
+"I was a little disappointed with my score"" - implying that the person was very disappointed with their score.",Understatement,Understatement
+"I might have overreacted a tad bit"" - downplaying a strong emotional response.",Understatement,Understatement
+"We've had a few minor setbacks"" - implying that there were major setbacks.",Understatement,Understatement
+"It's just a small inconvenience"" - downplaying a major inconvenience.",Understatement,Understatement
+"That presentation went alright"" - implying that the presentation was successful.",Understatement,Understatement
+"I'm not the biggest fan of seafood"" - implying that the person strongly dislikes seafood.",Understatement,Understatement
+I'm sure a little rain won't hurt anyone.,Understatement,Understatement
+"I just need to finish an entire semester's worth of work in one night, no big deal.",Understatement,Understatement
+"Don't worry, I've only been waiting for three hours.",Understatement,Understatement
+"I have a few things to get done today, nothing too overwhelming.",Understatement,Understatement
+"It's just a minor setback, nothing we can't overcome.",Understatement,Understatement
+"I think I may have lost my wallet, but I'm sure it'll turn up eventually.",Understatement,Understatement
+"I only have a few hundred unread emails, it shouldn't take me too long to catch up.",Understatement,Understatement
+"I may have broken my leg, but I'll manage.",Understatement,Understatement
+"I have a presentation in front of 500 people tomorrow, but that's not too nerve-wracking.",Understatement,Understatement
+"I'm just a bit tired, only pulled two all-nighters this week.",Understatement,Understatement
+"I didn't do so well on the math test, I only got a 99%.",Understatement,Understatement
+"My apartment is a little messy, just a few clothes on the floor.",Understatement,Understatement
+"That class was a bit challenging, I almost had to study for it.",Understatement,Understatement
+"Today's weather isn't too bad, just a little rain.",Understatement,Understatement
+"The final exam was a breeze, I only had to study for a day.",Understatement,Understatement
+"I'm not that great at giving presentations, I only got a standing ovation.",Understatement,Understatement
+"This restaurant is just okay, I've only been here three times this week.",Understatement,Understatement
+"My job isn't too difficult, I only have to work 80 hours a week.",Understatement,Understatement
+"I didn't travel far, it was just a quick trip around the world.",Understatement,Understatement
+"The movie was alright, it only won four Oscars.",Understatement,Understatement
+"I have a few things on my mind"" - When in reality, I am completely overwhelmed and stressed.",Understatement,Understatement
+"I guess I could use some help"" - I am definitely in desperate need of assistance.",Understatement,Understatement
+"It's just a tiny scratch"" - My car is completely totaled.",Understatement,Understatement
+"This won't take a minute"" - Completing this task will actually take hours.",Understatement,Understatement
+"I didn't do too well on the exam"" - I completely failed and am devastated.",Understatement,Understatement
+"I've been a bit busy lately"" - My schedule has been completely packed with no free time.",Understatement,Understatement
+"I could use a little break"" - I am absolutely exhausted and need a long vacation.",Understatement,Understatement
+"Let's just say it didn't go as planned"" - The event was a complete disaster.",Understatement,Understatement
+"I've had better days"" - My day has been filled with chaos and mishaps.",Understatement,Understatement
+"It's been a bit of a challenge"" - The situation has been extremely difficult and overwhelming.",Understatement,Understatement
+"The mountain was a bit steep, but we managed to climb it in record time.",Understatement,Understatement
+"I'm just a little tired, no need to worry about me.",Understatement,Understatement
+"The weather's not too bad, just a little rain.",Understatement,Understatement
+"The traffic was a little heavy, but I still made it to work on time.",Understatement,Understatement
+"The party was a bit crowded, but we still had a good time.",Understatement,Understatement
+"The exam was a breeze, I finished it in half the time.",Understatement,Understatement
+"I only have a few bruises, no big deal.",Understatement,Understatement
+"The concert was just okay, nothing special.",Understatement,Understatement
+"The lesson was a little confusing, but I'm sure I'll figure it out eventually.",Understatement,Understatement
+"The meal wasn't bad, but it could have used a little more seasoning.",Understatement,Understatement
+"I have a few minor concerns about the project."" (instead of ""I have significant concerns"")",Understatement,Understatement
+"I just need a little bit of help."" (instead of ""I need a lot of help"")",Understatement,Understatement
+"It's a bit chilly in here."" (instead of ""It's freezing in here"")",Understatement,Understatement
+"I wasn't expecting a standing ovation for my mediocre performance."" (instead of ""I was blown away by the standing ovation for my outstanding performance"")",Understatement,Understatement
+"The earthquake caused a few minor cracks in the foundation.""(instead of ""The earthquake destroyed the entire building"")",Understatement,Understatement
+"I might have overdone it with the spices in this dish."" (instead of ""This dish is way too spicy to eat"")",Understatement,Understatement
+"I just need a needle and thread to fix this small rip."" (instead of ""This huge rip requires professional sewing"")",Understatement,Understatement
+"I'm not too thrilled about having to go to the dentist."" (instead of ""I am absolutely dreading my dental appointment"")",Understatement,Understatement
+"We had a little disagreement, but we were able to resolve it."" (instead of ""We had a major argument, but eventually made up"")",Understatement,Understatement
+"The project didn't quite meet our expectations."" (instead of ""The project was a complete failure"")",Understatement,Understatement
+"Oh, don't worry about the massive tornado heading our way. It's just a slight inconvenience to our picnic plans.",Understatement,Understatement
+I didn't sleep well last night. It was only a little bit of tossing and turning.,Understatement,Understatement
+That rollercoaster ride was a bit intense. I could hardly feel the drops.,Understatement,Understatement
+It's just a tiny scratch. I'll walk it off.,Understatement,Understatement
+I'm just a little nervous. I have to give a presentation in front of 500 people.,Understatement,Understatement
+"I didn't study much for the exam, just a few hours. I hope it'll be enough.",Understatement,Understatement
+This bag of chips is nothing compared to the feast we'll have at the banquet.,Understatement,Understatement
+The hurricane wasn't too bad. We just lost a few branches off the trees.,Understatement,Understatement
+I'm just a little disappointed that Beyoncé couldn't make it to our small backyard barbecue.,Understatement,Understatement
+Sorry I'm late. I got stuck in some light traffic.,Understatement,Understatement
+I was just a little bit disappointed when I didn't get into my dream college.,Understatement,Understatement
+"The test was a bit challenging, but nothing I couldn't handle.",Understatement,Understatement
+The storm caused a few minor inconveniences.,Understatement,Understatement
+"I barely grazed my knee, it's not a big deal.",Understatement,Understatement
+"Oh, you know, I just climbed Mount Everest last weekend. It wasn't too difficult.",Understatement,Understatement
+Looks like I'll have a bit of extra work to do tonight.,Understatement,Understatement
+I'm just feeling a tad bit under the weather.,Understatement,Understatement
+He's just a tiny bit obsessed with video games.,Understatement,Understatement
+I may have underestimated the amount of time it would take to finish this project.,Understatement,Understatement
+"After jumping out of a plane, I think I can handle a small rollercoaster.",Understatement,Understatement

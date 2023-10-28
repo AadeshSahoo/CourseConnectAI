@@ -5,7 +5,7 @@ calctokenizer = AutoTokenizer.from_pretrained("tiiuae/falcon-7b-instruct")
 calcModel = FalconForCausalLM.from_pretrained("tiiuae/falcon-7b-instruct")
 
 langtokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
-langmodel = AutoModelForSequenceClassification.from_pretrained('/Users/aadeshsahoo/Documents/CourseConnect/LangModel/Modelv2', num_labels=30)
+langmodel = AutoModelForSequenceClassification.from_pretrained('/LangModel/Modelv2', num_labels=30)
 
 keys = {
     0:'Parallelism',

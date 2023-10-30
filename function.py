@@ -1,11 +1,18 @@
 from transformers import AutoTokenizer, FalconForCausalLM, AutoModelForSequenceClassification
 import torch 
+import openai
+import os
+from dotenv import load_dotenv
 
 calctokenizer = AutoTokenizer.from_pretrained("tiiuae/falcon-7b-instruct")
 calcModel = FalconForCausalLM.from_pretrained("tiiuae/falcon-7b-instruct")
 
 langtokenizer = AutoTokenizer.from_pretrained('bert-base-uncased')
 langmodel = AutoModelForSequenceClassification.from_pretrained('/Users/aadeshsahoo/Documents/CourseConnect/LangModel/Modelv2', num_labels=30)
+
+load_dotenv()
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 keys = {
     0:'Parallelism',
@@ -46,15 +53,25 @@ def generate_question(category, pr):
     
     elif category == 'AP English and Language':
         
-        tokens = langtokenizer(pr, return_tensors='pt', padding=True, truncation=True)
+        prompt = f'''
+    Generate me a well known piece of next that showcases a salient rhetoric term.
 
-        outputs = langmodel(**tokens)
+    Please only output the piece of text and nothing else
 
-        logits = outputs.logits
+    Limit the text to three sentences maximum
+    '''
 
-        predicted_class = torch.argmax(logits, dim=1)
+        max_tokens = 1
 
-        return keys[predicted_class.item()]
+        response = openai.Completion.create(
+                model="gpt-3.5-turbo-instruct",
+                prompt=prompt,
+                max_tokens = 500
+                )
+        
+        response_text = response['choices'][0]['text']
+
+        return str(response_text)
         
 
 
